@@ -134,9 +134,9 @@ To automate resume filtering using NLP and Machine Learning techniques.
 
 # 📊 GitHub Stats
 
-> Replace `YOUR_USERNAME` with your actual GitHub username
+
 
 ```markdown
-![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANDY655&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANDY655&layout=compact&theme=radical)
