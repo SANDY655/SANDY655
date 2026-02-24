@@ -1,142 +1,113 @@
-# 🚀 Santhosh Kannan
-
-### 💻 Computer Science Engineering Student | Aspiring AI Engineer | ML & Full Stack Learner
-
----
-
-## 👋 About Me
-
-Hello! I'm **Santhosh Kannan**, a 3rd Year Computer Science Engineering student passionate about building intelligent software systems using Artificial Intelligence and Machine Learning.
-
-I focus on integrating AI into real-world systems to automate decision-making and improve efficiency.
-
-- 🎓 3rd Year CSE Student  
-- 🤖 Currently Building an AI-Driven System  
-- 🧠 Learning Machine Learning & NLP  
-- 🌱 Exploring Full Stack Development  
-- 🎯 Career Goal: AI Software Engineer  
+<h1 align="center">Hi 👋, I'm Santhosh Pandiyan </h1>
+<h3 align="center">Aspiring AI Engineer | ML Enthusiast | Full Stack Learner</h3>
 
 ---
 
-# 🔥 Current Project
+## 👨‍💻 About Me
 
-## 🧠 AI-Powered Bug Tracker with Git Traceability & SLA Monitoring
-
-An intelligent multi-project bug tracking system that enhances traditional issue tracking by integrating AI models and automation.
-
-### 🚀 Core Features
-
-- 🔍 AI-Based Duplicate Bug Detection (NLP-based similarity analysis)
-- ⚡ Severity Prediction using Machine Learning
-- 👨‍💻 Smart Developer Assignment (based on workload logic)
-- 🔗 Git-Based Traceability (mapping bug IDs with commits)
-- ⏱ SLA Monitoring with deadline tracking & alerts
-- 📊 Project-level analytics dashboard
-
-### 🎯 Objective
-
-To transform traditional bug management into a smart, data-driven, automated quality management system.
-
-### 🛠 Tech Stack (Used / Implementing)
-
-- Python (ML Model Development)
-- Scikit-learn
-- React (Frontend - Learning & Implementing)
-- Node.js (Backend - Learning & Implementing)
-- MySQL
-- Firebase
-- Git & GitHub
+- 🎓 Pre-Final Year Computer Science Engineering Student  
+- 🤖 Currently building **AI-Powered Bug Tracker with Git Traceability & SLA Monitoring**  
+- 🧠 Learning Machine Learning, NLP & Neural Networks  
+- 🚀 Interested in AI System Design & Backend Development  
+- 🎯 Goal: Become an AI Software Engineer  
 
 ---
 
-# 🚧 In Progress / Learning Project
+# 🚀 Current Project
+
+## 🧠 AI-Powered Bug Tracker
+
+An intelligent bug management system integrating AI to automate:
+
+- 🔍 Duplicate Bug Detection  
+- ⚡ Severity Prediction  
+- 👨‍💻 Smart Developer Assignment  
+- 🔗 Git-Based Traceability  
+- ⏱ SLA Monitoring & Alerts  
+- 📊 Project Analytics Dashboard  
+
+---
+
+# 🚧 In Progress
 
 ## 🤖 AI-Powered Job Application First Level Screening System
 
-An AI-based recruitment automation system designed to perform first-level candidate screening.
+- 📄 Resume Parsing using NLP  
+- 🧠 Candidate Scoring Model  
+- 📊 Skill Matching with Job Description  
+- 🏆 Automated Ranking System  
 
-### 🎯 Goal
-
-To automate resume filtering using NLP and Machine Learning techniques.
-
-### 📌 Planned Features
-
-- Resume Parsing
-- Skill Extraction using NLP
-- Candidate Scoring Model
-- Resume–Job Description Similarity Matching
-- Automated Ranking System
-
-### 🛠 Tech Stack (Currently Learning & Exploring)
-
-- Python
-- NLP (Natural Language Processing)
-- Scikit-learn
-- Pandas & NumPy
-- Jupyter Notebook
-
-> This project is currently in the research and learning phase as I strengthen my ML fundamentals.
+Currently in research & ML implementation phase.
 
 ---
 
-# 🛠 Technical Skills
+# 🛠 Tech Stack
 
-## 💻 Programming
-- Python
-- Java
-- JavaScript
-- SQL
+## 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
 
 ## 🤖 AI & ML (Learning & Implementing)
-- Supervised Learning
-- Classification Models
-- NLP Basics
-- Feature Engineering
-- Model Evaluation
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge)
 
-## 🌐 Web Development (Learning)
-- HTML
-- CSS
-- React
-- Node.js
+---
 
-## 🗄 Databases
-- MySQL
-- Firebase
+## 🌐 Web Development & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🗄 Database & Backend Services
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
 
 ## 🔧 Tools
-- Git & GitHub
-- VS Code
-- Postman
-- Jupyter Notebook
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
-# 📈 Currently Focusing On
+# 📌 Featured Projects
 
-- Strengthening ML fundamentals
-- Building production-ready AI systems
-- Backend + ML Integration
-- Model accuracy improvement
-- Deployment basics
+### 🔹 AI-Powered Bug Tracker  
+AI-integrated defect management system with severity prediction and SLA tracking.
 
----
-
-# 🏆 2026 Goals
-
-- ✅ Complete AI Bug Tracker with functional ML models
-- ✅ Deploy AI Screening System
-- ✅ Contribute to Open Source
-- ✅ Secure AI/ML Internship
-- ✅ Master System Design Basics
+### 🔹 AI Job Screening System  
+Automated resume analysis and candidate ranking using NLP.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
+![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANDY655&show_icons=true&theme=radical&count_private=true)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=SANDY655&theme=radical)
 
-```markdown
-![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANDY655&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SANDY655&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANDY655&layout=compact&theme=radical)
+---
+
+# 🤝 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/santhoshpandiyan
+- 📧 Email: santhoshkannan525@gmail.com  
+- 🌐 Portfolio: https://portfolio-4cdj.vercel.app/
+
+---
+
+<h3 align="center">🔥 "Building Intelligent Systems That Solve Real Problems"</h3>
