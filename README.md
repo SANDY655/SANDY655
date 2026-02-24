@@ -94,12 +94,12 @@ Automated resume analysis and candidate ranking using NLP.
 
 # 📊 GitHub Analytics
 
-![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANDY655&show_icons=true&theme=radical&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SANDY655&theme=radical)
+![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANDY655&show_icons=true&theme=radical&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SANDY655&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=SANDY655&theme=radical&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SANDY655&layout=compact&theme=radical&hide_border=true)
 ---
 
 # 🤝 Connect With Me
